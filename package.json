@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/MissAllSunday/postEmail#readme",
   "dependencies": {
-    "imap": "^0.8.19"
+    "imap": "^0.8.19",
+    "node-env-file": "^0.1.8",
+    "restify": "^5.2.0"
   }
 }
