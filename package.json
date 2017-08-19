@@ -1,0 +1,22 @@
+{
+  "name": "postemail",
+  "version": "1.0.0",
+  "description": "weird pot by email stuff",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MissAllSunday/postEmail.git"
+  },
+  "author": "Suki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MissAllSunday/postEmail/issues"
+  },
+  "homepage": "https://github.com/MissAllSunday/postEmail#readme",
+  "dependencies": {
+    "imap": "^0.8.19"
+  }
+}
